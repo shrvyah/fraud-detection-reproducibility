@@ -1,0 +1,29 @@
+{
+  "paper": "fraud_detection_final.pdf",
+  "dataset": "ULB/Worldline credit-card benchmark",
+  "data_url": "https://storage.googleapis.com/download.tensorflow.org/data/creditcard.csv",
+  "data_sha256": "76274b691b16a6c49d3f159c883398e03ccd6d1ee12d9d8ee38f4b4b98551a89",
+  "reported_results": "results/ULB_results.csv",
+  "split": {
+    "train": [
+      170884,
+      360
+    ],
+    "validation": [
+      56961,
+      57
+    ],
+    "test": [
+      56962,
+      75
+    ]
+  },
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "generated_from": "public-data rerun completed before packaging"
+}

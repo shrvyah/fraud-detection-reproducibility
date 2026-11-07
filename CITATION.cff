@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "A Reproducible Hybrid Interpretable Framework for Credit-Card Fraud Detection"
+message: "If you use this code or results, please cite the accompanying manuscript."
+type: software
+authors:
+  - family-names: Nalla
+    given-names: Shravya Reddy
+    affiliation: University of the Cumberlands
+  - family-names: Mukhopadhyay
+    given-names: Atanu
+    affiliation: Independent Researcher
+version: "1.0.0"
+date-released: 2026-11-07
+license: "NOASSERTION"

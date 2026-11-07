@@ -1,0 +1,7 @@
+Python 3.12.x
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+scikit-learn==1.5.2
+pyarrow==17.0.0
+threadpoolctl (installed in rerun environment)
